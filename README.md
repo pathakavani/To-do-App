@@ -9,6 +9,6 @@ Tech Stack:
 To execute the code:
 1. Install Django, psycopg2
 2. Navigate to the path and open the folder
-3. To run the django server, run the following command:
-    python3 manage.py runserver
-Voila, the todo app is ready to use!
+3. To run the django server, run the following command: python3 manage.py runserver
+
+    Voila, the todo app is ready to use!
